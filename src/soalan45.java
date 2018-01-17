@@ -35,6 +35,7 @@ public class soalan45 {
         
         System.out.println("Nama : "+nama);
         System.out.println("Kumpulan darah : "+kumpdarah);
-        System.out.println("Anda boleh menderma kepada " +makluman);            
+        System.out.println("Anda boleh menderma kepada " +makluman); 
+        System.out.println(" tahniah");
     }
 }
